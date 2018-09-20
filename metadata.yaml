@@ -1,0 +1,34 @@
+_repo: Perijatar_52955
+_version: 0.0.1
+alternative_title: Eugénie Grandet. Finnish
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2016-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52955'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'French fiction -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: Perijätär
+url: http://www.gutenberg.org/ebooks/52955
