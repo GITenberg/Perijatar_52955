@@ -1,6 +1,9 @@
 _repo: Perijatar_52955
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Eugénie Grandet. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -17,6 +20,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52955#Perijatar
 gutenberg_issued: '2016-09-02'
 gutenberg_type: Text
 identifiers:
